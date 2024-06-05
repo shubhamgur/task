@@ -1,0 +1,57 @@
+.frontname{
+    font-weight: 300;
+}
+
+.heading{
+    border: solid 1px rgb(46, 2, 46);
+    padding: 10px;
+    background-color:rgb(46, 2, 46) ;
+    color: white;
+}
+
+.logout{
+   margin-left: 970px;
+   font-size:medium;
+}
+
+.msg{
+    display: inline-block;
+}
+
+.sub{
+    position: fixed;
+    left: 200px;
+    top:150px
+}
+
+.list{
+  padding-top: 35px;
+ color: black;
+ text-decoration: none;
+}
+
+.active{
+    padding-top: 35px;
+    margin-bottom: 15px;
+    color: goldenrod; 
+    text-decoration: none;   
+}
+
+.input{
+    margin-top: 40px;
+    width: 280px;
+    height: 60px;
+    border-radius: 10px;
+}
+
+.btns{
+    margin-top: 40px;
+    margin-left: 250px;
+}
+
+.dropdown{
+    border-radius: 10px;
+    width: 130px;
+    height: 30px;
+    margin-left: 30px;
+}
